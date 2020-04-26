@@ -1,3 +1,3 @@
 # furniture
 
-Furniture designs
+Furniture designs done in SketchUp
